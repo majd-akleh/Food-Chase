@@ -9,3 +9,5 @@ The weights of the NN are generated using a GA approach. where every time we eva
 and see how many times the chaser eats food.
 
 GA Chromosome: represents a list of all weights of the generated NN.
+
+developers are: Majd Akleh, Marcel Zakour
