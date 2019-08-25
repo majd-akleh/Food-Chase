@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/fitness/IntegerWeightsFitnessFunction.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/game/Game.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/run/TrackingVisualizeation.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/run/GATrackingTest.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/game/Direction.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/neuralnetwork/NeuralNetwork.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/fitness/MyFitnessFunction.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/fitness/DoubleWeightsFitnesFunction.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/neuralnetwork/NeuralNetworkInterface.java</file>
-            <file>file:/C:/Users/MAJD_/Desktop/Food%20Chase%20GA_NN/src/run/TrackingGame.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
